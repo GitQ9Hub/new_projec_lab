@@ -5,4 +5,4 @@
 🧡How users can get started with the project
 💛Where users can get help with your project
 💚Who maintains and contributes to the project
-An explanation of the project architecture (you can come back later and edit this information
+### An explanation of the project architecture (you can come back later and edit this information
